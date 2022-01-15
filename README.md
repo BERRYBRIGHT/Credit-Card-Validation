@@ -1,8 +1,7 @@
 # CREDIT CARD VALIDATOR
-This website implements a credit card validator including a fully functoinal Database.
+This website implements a credit card validator including a fully functoinal Database.  I completed this as a project for my Database Management Systems class during my undergraduate at VIT.
 
-Some of the screenshots of the project-
-<br><br>
+<br>
 <p>
 <img src="screenshots/1.PNG" width="400px" length="300px"/>
 <br><br>
